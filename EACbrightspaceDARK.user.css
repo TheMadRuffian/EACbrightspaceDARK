@@ -6,6 +6,7 @@
 @author         TheMadRuffian
 @preprocessor stylus
 
+@var checkbox highlight_unread 'Stronger Highlight | Unread Messages' 0
 ==/UserStyle== */
 @-moz-document url-prefix(https://eac.brightspace.com) {
 * {
