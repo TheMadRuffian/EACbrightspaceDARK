@@ -1,10 +1,9 @@
 /* ==UserStyle==
-@name           Dark Gmail by DM
+@name           brightspaceDARK
 @namespace      https://github.com/DM164/Dark-by-DM
-@version        5.32.0
-@description    Dark mode for Gmail
-@author         Denis Mignanelli
-@homepageURL    https://dark-by-dm-website.now.sh/
+@version        1.0.0
+@description    Dark theme for brightspace
+@author         TheMadRuffian
 @preprocessor stylus
 
 @var checkbox highlight_unread 'Stronger Highlight | Unread Messages' 0
