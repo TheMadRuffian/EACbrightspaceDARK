@@ -4,7 +4,7 @@
 @version        0.1
 @description    Dark theme for EAC brightspace https://eac.brightspace.com CSS Credits: Jun Guo, Dark-by-DM
 @author         TheMadRuffian
-@preprocessor   stylus
+@preprocessor stylus
 
 ==/UserStyle== */
 @-moz-document url-prefix(https://eac.brightspace.com) {
