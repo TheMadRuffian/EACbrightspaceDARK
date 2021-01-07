@@ -1,11 +1,11 @@
 /* ==UserStyle==
 @name           Brightspace Dark theme
-@namespace      USO Archive
-@author         Jun G
-@description    `Dark theme for EAC brightspace https://eac.brightspace.com CSS by TheMadRuffian. Credits: Jun Guo, junguo.io`
-@version        2019111.18.21
-@license        NO-REDISTRIBUTION
-@preprocessor   uso
+@namespace      https://github.com/TheMadRuffian/EACbrightspaceDARK
+@version        0.1
+@description    Dark theme for EAC brightspace https://eac.brightspace.com CSS Credits: Jun Guo, Dark-by-DM
+@author         TheMadRuffian
+@preprocessor   stylus
+
 ==/UserStyle== */
 @-moz-document url-prefix(https://eac.brightspace.com) {
 * {
