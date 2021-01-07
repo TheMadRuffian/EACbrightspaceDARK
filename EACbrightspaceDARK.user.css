@@ -4,7 +4,7 @@
 @version        1.0.0
 @description    Dark theme for EAC brightspace https://eac.brightspace.com CSS Credits: Jun Guo, Dark-by-DM
 @author         TheMadRuffian
-@preprocessor stylus
+@preprocessor   stylus
 
 @var checkbox highlight_unread 'Stronger Highlight | Unread Messages' 0
 ==/UserStyle== */
