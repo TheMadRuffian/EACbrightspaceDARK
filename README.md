@@ -2,7 +2,7 @@
 Work in progress but useable. Dark theme for EAC brightspace https://eac.brightspace.com
 
 ## How to use it?
-* Install Stylus extension for Chrome(https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or Firefox(https://addons.mozilla.org/en-GB/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+* Install Stylus extension for Chrome(https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or Firefox(https://addons.mozilla.org/en-GB/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search). Not available for Safari.
 * Click install 
   * [Install](https://raw.githubusercontent.com/TheMadRuffian/EACbrightspaceDARK/main/brightspaceDARK.user.css)
 * Enjoy!
