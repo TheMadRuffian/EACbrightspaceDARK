@@ -23,6 +23,7 @@ strong,
 span.d2l-textblock,
 .d2l-calendar-mini-weekend,
 span.ds_b,
+a.d2l-link,
 label,
 .d2l-calendar-mini th > abbr {
     color: #c0c0c0 !important;
@@ -75,6 +76,7 @@ tbody,
 .d2l-dropdown-content-1 .d2l-dropdown-content-width.d2l-dropdown-content,
 .daylight .d2l-datalist-slim > .d2l-datalist .d2l-datalist-item-content,
 .d2l-collapsepane-content,
+div,
 .d2l_2_64_820,
 .d2l-login-portal-bordered,
 .ddial_o2 {
