@@ -6,7 +6,7 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 
 # Known bugs
 * Some text might be illegible. Temporary solution is to disable the overlay temporarily to view the text. 
-* Some attachments under Contents show some grey stripes when viewing. Temporary solution is to disable the overlay temporarily to properly view the attachments.
+* Some attachments under Contents show horizontal grey stripes when viewing. Temporary solution is to disable the overlay temporarily to properly view the attachments.
 * Not tested in quizzes. Highly advised to disable the overlay before taking a quiz.
 
 # How to use it?
