@@ -7,6 +7,7 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 # Known bugs
 * Some text might be illegible. Temporary solution is to disable the overlay temporarily to view the text. 
 * Attachments under Contents shows some grey stripes when viewing. Temporary solution is to disable the overlay temporarily to properly view the attachments.
+* Not tested in quizzes. Highly advised to disable the overlay before taking a quiz.
 
 # How to use it?
 * Install Stylus extension for Chrome or Firefox. Clicking here will take you to the respective addon places. Not available for Safari.
