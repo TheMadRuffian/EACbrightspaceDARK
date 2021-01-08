@@ -181,3 +181,9 @@ d2l-icon {
 }
 
 }
+
+div.textLayer {
+    background: none !important;
+    border: none !important;
+    text-decoration: none !important;
+}
