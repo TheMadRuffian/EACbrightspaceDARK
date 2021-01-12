@@ -6,7 +6,7 @@ I had always hated the unmodifiable white background on Brigtspace. I tried othe
 
 # Known bugs
 * Some text might be illegible
-  * Workaround: Disable overlay temporarily to view the text.
+  * Workaround: Disable overlay temporarily to view the text
 * Some dropdown menus have white borders
   * Workaround: None yet
 * Hyperlinks may not be highlighted
