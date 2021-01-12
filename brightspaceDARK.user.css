@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           brightspaceDARK
 @namespace      https://github.com/TheMadRuffian/EACbrightspaceDARK
-@version        1.0.6
+@version        1.0.7
 @description    Dark theme for EAC-Brightspace. Credits to Jun Guo and Dark-by-DM
 @author         TheMadRuffian
 @preprocessor stylus
@@ -96,6 +96,11 @@ div,
 .d2l_2_82_577,
 .d2l_5_3_296,
 .d2l_4_1_942,
+.d2l_3_3_64,
+.d2l_3_81_239,
+.d2l_5_1_755,
+.d2l_6_3_760,
+.d2l_3_4_455,
 .d2l-login-portal-bordered,
 .ddial_o2 {
     background: none;
@@ -209,6 +214,9 @@ data-canvas-width {
     background: transparent !important;
 }
    
-    
+.d2l-navigation-s-menu-item-root {
+    background: #212121;
+    color: #ffffff;
+}      
     
 }
