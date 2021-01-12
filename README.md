@@ -1,5 +1,5 @@
 # Disclaimer
-This theme is not affliated with Emilio Aguinaldo College or Brightspace. I am not responsible if you use this and fail your quizzes or if your device blows up, implodes, flames start shooting from it, starts thermonuclear war, another pandemic, zombie apocalypse, alien invasion, or it kills your neighbor's dog. Use at your own risk. I am not responsible.... It was the other guy.... I swear....
+This theme is not in anyway affliated with Emilio Aguinaldo College or Brightspace. I am not responsible if you use this and fail your quizzes or if your device blows up, implodes, flames start shooting from it, starts thermonuclear war, another pandemic, zombie apocalypse, alien invasion, or it kills your neighbor's dog. Use at your own risk. I am not responsible.... It was the other guy.... I swear....
 
 # About
 Dark theme for EAC brightspace https://eac.brightspace.com
