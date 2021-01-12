@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           brightspaceDARK
 @namespace      https://github.com/TheMadRuffian/EACbrightspaceDARK
-@version        1.0.4
+@version        1.0.5
 @description    Dark theme for EAC-Brightspace. Credits to Jun Guo and Dark-by-DM
 @author         TheMadRuffian
 @preprocessor stylus
@@ -77,7 +77,21 @@ tbody,
 .daylight .d2l-datalist-slim > .d2l-datalist .d2l-datalist-item-content,
 .d2l-collapsepane-content,
 div,
+.d2l-list,
+.d2l-admin-tools,
+.d2l-body-compact,
 .d2l_2_64_820,
+.d2l_6_0_155,
+.d2l-datalist-container,
+.d2l-datalist-style1,
+.d2l-datalist-slim,
+.d2l-datalist-outdent,
+.d2l_5_1_163,
+.d2l_2_3_962,
+.d2l_2_4_806,
+.d2l_4_3_121,
+.d2l_2_81_188,
+.d2l_2_82_577,
 .d2l-login-portal-bordered,
 .ddial_o2 {
     background: none;
@@ -180,10 +194,17 @@ d2l-icon {
     background: none;
 }
 
-}
-
 div.textLayer {
     background: none !important;
     border: none !important;
     text-decoration: none !important;
+}
+    
+div
+data-canvas-width {
+    background: transparent !important;
+}
+   
+    
+    
 }
