@@ -7,7 +7,7 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 # Known bugs
 * Some text might be illegible. Temporary solution is to disable the overlay temporarily to view the text. 
 * Some attachments under Contents show horizontal grey stripes when viewing. Temporary solution is to disable the overlay temporarily to properly view the attachments.
-* Not tested in quizzes. Highly advised to disable the overlay before taking a quiz.
+* Not tested in quizzes. Highly advised to disable the overlay before taking a quiz. Might cause rendering issues with pictures. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than the browser Stylus is installed in.)
 
 # How to use it?
 * Install Stylus extension for Chrome or Firefox. Clicking here will take you to the respective addon places. Not available for Safari.
@@ -16,9 +16,9 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 * Click install 
   * [Install](https://raw.githubusercontent.com/TheMadRuffian/EACbrightspaceDARK/main/brightspaceDARK.user.css)
 * Enjoy!
-* To disable: Click on the Stylus extension icon on the address bar and check "Turn all styles off"
+* To disable: Click on the Stylus extension icon on the address bar and check "Turn all styles off" 
 
-PS, Please look for updates every once in a while
+P.S., Please look for updates every once in a while
 
 # Credits
 * Jun Guo's CSS contribution for https://dal.brightspace.com whose work can be found here https://userstyles.org/styles/149577/brightspace-dark-theme 
