@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/github/tag/mxdanger/GoogleMeet-Dark.svg?label=version)](https://github.com/mxdanger/GoogleMeet-Dark/tags)
+[![Version](https://img.shields.io/github/tag/TheMadRuffian/EACbrightspaceDARK.svg?label=version)](https://github.com/TheMadRuffian/EACbrightspaceDARK/tags)
 
 # Disclaimer
 This theme is not in anyway affiliated with Emilio Aguinaldo College or Brightspace. I am not responsible if you use this and fail your quizzes or if your device blows up, implodes, flames start shooting from it, starts thermonuclear war, another pandemic, zombie apocalypse, alien invasion, or kills your neighbor's dog. Use at your own risk. I am not responsible.... It was the other guy.... I swear....
