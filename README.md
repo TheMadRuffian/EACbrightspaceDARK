@@ -6,7 +6,7 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 
 # Known bugs
 * Some text might be illegible. Temporary solution is to disable the overlay temporarily to view the text. 
-* Some dropdown menus have white background with black text.
+* Some dropdown menus have white borders.
 * Not tested in quizzes. Highly advised to disable the overlay before taking a quiz. Might cause rendering issues with pictures. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than the browser Stylus is installed in.)
 
 # How to use it?
@@ -18,7 +18,9 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 * Enjoy!
 * To disable: Click on the Stylus extension icon on the address bar and check "Turn all styles off" 
 
-P.S., Please look for updates every once in a while
+## P.S.
+* Look for updates every once in a while
+* Feel free to report issues here on Github
 
 # Credits
 * Jun Guo's CSS contribution for https://dal.brightspace.com whose work can be found here https://userstyles.org/styles/149577/brightspace-dark-theme 
