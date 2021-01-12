@@ -18,7 +18,7 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 * Enjoy!
 * To disable: Click on the Stylus extension icon on the address bar and check "Turn all styles off" 
 
-## P.S.
+### P.S.
 * Look for updates every once in a while
 * Feel free to report issues here on Github
 
