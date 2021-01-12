@@ -1,6 +1,8 @@
 # Disclaimer
 This code is in no way affliated to Emilio Aguinaldo College or Brightspace.
 
+I am not responsible if you use this and fail your quizzes or if your device blows up, implodes, flames start shooting from it, starts thermonuclear war, another pandemic, zombie apocalypse, alien invasion, or it kills your neighbor's dog. Use at your own risk. I am not responsible.... It was the other guy.... I swear....
+
 # About
 Dark theme for EAC brightspace https://eac.brightspace.com
 
@@ -13,8 +15,8 @@ I had always hated the unmodifiable white background of Brigtspace. I tried othe
   * Workaround: None yet
 * Hyperlinks may not be highlighted
   * Workaround: Look for a change in the cursor shape (changes to hand) or disable overlay temporarily to view the hyperlinks
- 
-* Not tested in quizzes. Highly advised to disable the overlay before taking a quiz. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than in the browser Stylus is installed)
+* Not tested in quizzes 
+  * Highly advised to disable the overlay before taking a quiz. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than in the browser Stylus is installed)
 
 # How to use it?
 * Install Stylus extension for Chrome or Firefox. Clicking here will take you to the respective addon places. Not available for Safari.
