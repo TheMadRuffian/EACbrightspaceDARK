@@ -4,7 +4,7 @@ This code is in no way affliated to Emilio Aguinaldo College or Brightspace.
 # About
 Dark theme for EAC brightspace https://eac.brightspace.com
 
-I had always hated the unmodifiable white background on Brigtspace. I tried other extensions like [Dark Reader](https://github.com/darkreader/darkreader) and [Midnight Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) but they seem to use my limited system resource extensively to process and render good looking, dark themed pages. Hence I made this dark theme overlay to ease my eyes with several help online. Work in progress but useable. 
+I had always hated the unmodifiable white background of Brigtspace. I tried other extensions like [Dark Reader](https://github.com/darkreader/darkreader) and [Midnight Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) but they seem to use my limited system resource extensively to process and render good looking, dark themed pages. Hence I made this dark theme overlay to ease my eyes with several help online. Work in progress but useable. 
 
 # Known bugs
 * Some text might be illegible
