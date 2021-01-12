@@ -17,7 +17,7 @@ I had always hated the unmodifiable white background of Brightspace. I tried oth
   * Highly advised to disable the overlay before taking a quiz. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than in the browser Stylus is installed)
 
 # How to use it?
-* Install Stylus extension for Chrome or Firefox. Clicking here will take you to the respective addon places. Not available for Safari.
+* Install Stylus extension for Chrome or Firefox. Clicking the following links will take you to Stylus extension in the respective addon places. Not available for Safari.
   * [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 * Click the following link to install 
