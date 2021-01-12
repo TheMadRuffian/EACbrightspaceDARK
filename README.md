@@ -7,6 +7,7 @@ I had always hated the unmodifiable white background on Brigtspace hence made th
 # Known bugs
 * Some text might be illegible. Temporary solution is to disable the overlay temporarily to view the text. 
 * Some attachments under Contents show horizontal grey stripes when viewing. Temporary solution is to disable the overlay temporarily to properly view the attachments.
+* Some dropdown menus have white background with black text.
 * Not tested in quizzes. Highly advised to disable the overlay before taking a quiz. Might cause rendering issues with pictures. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than the browser Stylus is installed in.)
 
 # How to use it?
