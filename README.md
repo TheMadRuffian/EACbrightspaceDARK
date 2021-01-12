@@ -23,7 +23,8 @@ I had always hated the unmodifiable white background of Brightspace. I tried oth
 * Click the following link to install 
   * [Install](https://raw.githubusercontent.com/TheMadRuffian/EACbrightspaceDARK/main/brightspaceDARK.user.css)
 * Enjoy!
-* To disable: Click on the Stylus extension icon on the address bar and check "Turn all styles off" 
+* To disable: Click on Stylus extension icon on the address bar and check "Turn all styles off" 
+* To uninstall: Click on the "3 dots" next to the theme in Stylus extension icon on the address bar followed by clicking on delete. Note that uninstalling the extension prior to deleting the theme might cause undesirable effects.
 
 ### P.S.
 * Look for updates every once in a while
