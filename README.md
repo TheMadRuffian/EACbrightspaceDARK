@@ -20,7 +20,7 @@ I had always hated the unmodifiable white background of Brightspace. I tried oth
 * Install Stylus extension for Chrome or Firefox. Clicking here will take you to the respective addon places. Not available for Safari.
   * [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-* Click install 
+* Click the following link to install 
   * [Install](https://raw.githubusercontent.com/TheMadRuffian/EACbrightspaceDARK/main/brightspaceDARK.user.css)
 * Enjoy!
 * To disable: Click on the Stylus extension icon on the address bar and check "Turn all styles off" 
