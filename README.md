@@ -6,11 +6,11 @@ I had always hated the unmodifiable white background on Brigtspace. I tried othe
 
 # Known bugs
 * Some text might be illegible
- * Workaround: Disable overlay temporarily to view the text.
+  * Workaround: Disable overlay temporarily to view the text.
 * Some dropdown menus have white borders
- * Workaround: None yet
+  * Workaround: None yet
 * Hyperlinks may not be highlighted
- * Workaround: Look for a change in the cursor shape (changes to hand) or disable overlay temporarily to view the hyperlinks
+  * Workaround: Look for a change in the cursor shape (changes to hand) or disable overlay temporarily to view the hyperlinks
  
 * Not tested in quizzes. Highly advised to disable the overlay before taking a quiz. (Doesn't have to be disabled when using the Lockdown browser as the quiz will continue in that browser rather than in the browser Stylus is installed)
 
