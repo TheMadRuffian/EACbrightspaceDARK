@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           brightspaceDARK
 @namespace      https://github.com/TheMadRuffian/EACbrightspaceDARK
-@version        1.0.8
+@version        1.0.9
 @description    Dark theme for EAC-Brightspace. Credits to Jun Guo and Dark-by-DM
 @author         TheMadRuffian
 @preprocessor stylus
@@ -105,7 +105,7 @@ div,
 .d2l-login-portal-bordered,
 .ddial_o2 {
     background: none;
-    background-color: #212121 !important;
+    background-color: #111 !important;
 }
 .daylight .d2l-msg-container {
     border: 1px solid #ffffff;
@@ -131,12 +131,12 @@ d2l-icon {
 }
 
 .d2l-button {
-    background-color: #212121;
+    background-color: #111;
     color: #ffffff;
 }
 
 .d2l-button:hover {
-    background-color: #212121 !important;
+    background-color: #111 !important;
     color: #ffffff;
 }
 
@@ -162,7 +162,7 @@ d2l-icon {
 
 #toolbarViewer {
     background: none;
-    background-color: #212121 !important;
+    background-color: #111 !important;
 }
 
 .daylight .d2l-messagebucket-button-container + #AB_DL_PH_Messages .d2l-datalist-container {
@@ -186,14 +186,14 @@ d2l-icon {
 .d2l-calendar-mini-weekend,
 .d2l_2_2_264 {
     background: none;
-    background-color: #212121 !important;
+    background-color: #111 !important;
 }
 
 .d2l-navigation-s-main,
 .d2l-navigation-s-header,
 .daylight .homepage-container div:last-of-type .d2l-widget:last-child,
 .daylight .d2l-widget {
-    background-color: #212121 !important;
+    background-color: #111 !important;
 }
 
 .d2l-branding-navigation-background-color {
@@ -216,7 +216,7 @@ data-canvas-width {
 }
    
 .d2l-navigation-s-menu-item-root {
-    background: #212121;
+    background: #111;
     color: #ffffff;
 }      
     
