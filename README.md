@@ -1,5 +1,3 @@
-[![Version](https://img.shields.io/github/tag/TheMadRuffian/EACbrightspaceDARK.svg?label=version)](https://github.com/TheMadRuffian/EACbrightspaceDARK/releases/tag/v1.0.10)
-
 # Disclaimer
 This theme is not in anyway affiliated with Emilio Aguinaldo College or Brightspace. I am not responsible if you use this and fail your quizzes or if your device blows up, implodes, flames start shooting from it, starts thermonuclear war, another pandemic, zombie apocalypse, alien invasion, or kills your neighbor's dog. Use at your own risk. I am not responsible.... It was the other guy.... I swear....
 
