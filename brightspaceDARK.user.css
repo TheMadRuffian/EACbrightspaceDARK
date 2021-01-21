@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           brightspaceDARK
 @namespace      https://github.com/TheMadRuffian/EACbrightspaceDARK
-@version        1.0.12
+@version        1.0.13
 @description    Dark theme for EAC-Brightspace. Credits to Jun Guo and Dark-by-DM
 @author         TheMadRuffian
 @preprocessor stylus
@@ -224,7 +224,7 @@ data-canvas-width {
 }      
 
 .d2l-loadmore-pager {
-    background: #212121; !important;
+    background: #212121 !important;
 }   
     
 }
